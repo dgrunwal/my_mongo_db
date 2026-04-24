@@ -1,6 +1,6 @@
 This repository provides documentation for the MongoDB technical posting https://programmar7.wordpress.com/2026/04/17/optimizing-slow-queries-with-mongodbs-tim-kelly-part-one/
 
-It includes custom .pdf, .md and handy performance tuning guide that makes targets 7 arras:
+It includes custom .pdf, .md, MongoDB tuning mindmap and handy performance tuning guide that makes targets 7 areas:
 
 
 MongoDB query tuning guide covering the full diagnostic and optimization lifecycle organized into seven sections:
